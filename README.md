@@ -1,6 +1,13 @@
-La molècula tractada es basa en un benzè (C6H6) que en dos dels seus carbonis, té un grup amina (-NH2). 
+La molècula tractada es basa en un benzè (C6H6) que té un grup amina (-NH2) en dos dels seus carbonis.
 
-Per obtenir les imatges .cube, s'han establert 2 valors de potencial:
+Per obtenir les imatges .cube, s'han establert dos valors de potencial:
 
-- 5V: Valor amb el qual es poden visualitzar 5 estas OCUPATS.
-- -5V: Valor amb el qual es poden visualitzar 5 estas DESOCUPATS.
+- 5 V: Valor amb el qual es poden visualitzar estats ocupats.
+- -5 V: Valor amb el qual es poden visualitzar estats desocupats.
+
+Les imatges obtingudes són:
+
+- Densitat_5V.png: Imatge del pla que mostra la densitat d’estats de la molècula amb 5 V.
+- Molecula_Densitat_5V.png: Imatge del pla de densitat d’estats amb la molècula superposada, amb 5 V.
+- Densitat_m5V.png: Imatge del pla que mostra la densitat d’estats de la molècula amb -5 V.
+- Molecula_Densitat_m5V.png: Imatge del pla de densitat d’estats amb la molècula superposada, amb -5 V.
