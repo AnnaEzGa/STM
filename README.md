@@ -3,7 +3,7 @@ La molècula tractada es basa en un benzè (C6H6) que té un grup amina (-NH2) e
 Per obtenir les imatges .cube, s'han establert dos valors de potencial:
 
 - 5 V: Valor amb el qual es poden visualitzar 5 estats ocupats.
-- -5 V: Valor amb el qual es poden visualitzar 5 estats desocupats.
+- -5 V: Valor amb el qual es poden visualitzar 6 estats desocupats.
 
 Les imatges obtingudes són:
 
